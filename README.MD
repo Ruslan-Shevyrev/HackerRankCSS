@@ -1,4 +1,4 @@
-:one:
+# :one:
 ```
 <style>
 div{
@@ -15,4 +15,4 @@ div{
 :heavy_check_mark: .greyBall:hover {transform: scale(2); transition: 0.5s;}\
 :x: .greyBall:focus {transform: scale(2); transition: 0.5s;}\
 
-:two: CSS object-fit
+# :two: CSS object-fit
