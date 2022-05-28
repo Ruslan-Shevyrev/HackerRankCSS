@@ -18,4 +18,5 @@ div{
 # :two: CSS object-fit
 ## Which of the following are true about CSS property 'object-fit'?
 
-:x: 'object\
+:x: 'object-fit: contain;' does not preserve the aspect ratio of the image; it stretches the image to civer the entry width and height of the container.\
+:heavy_check_mark: 'object-fit: contain;' preserve the aspect ratio of the image and makes sure no clipping happens to the whole image.\
