@@ -39,6 +39,8 @@ div{
 :heavy_check_mark: {white-space: nowrap; overflow: hidden; text-overflow:ellipsis}\
 :x: None of the above
 
+<img src="/Answer_images/Answer_3.png" title="answer_3">
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
