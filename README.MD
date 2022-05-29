@@ -15,6 +15,8 @@ div{
 :heavy_check_mark: .greyBall:hover {transform: scale(2); transition: 0.5s;}\
 :x: .greyBall:focus {transform: scale(2); transition: 0.5s;}
 
+<img src="../Answer_images/Answer_1.png" title="answer_1">
+
 # :two: CSS Ellipsis
 
 ## Which of the following are true about CSS property 'object-fit'?
@@ -34,3 +36,10 @@ div{
 :x: {text-overflow: ellipsis; white-space: wrap; visibility: hidden;}\
 :heavy_check_mark: {white-space: nowrap; overflow: hidden; text-overflow:ellipsis}\
 :x: None of the above
+
+<table>
+  <tr>
+    <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
+    <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logoRS_FULL.png" title="RuslanShevyrev"></td>
+  </tr>
+</table>
