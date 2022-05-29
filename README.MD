@@ -31,6 +31,6 @@ div{
 ## For example, "Hello! I am an element, and my width is larger than the container..."
 
 :x: {white-space: pre-wrap; overflow: ellipsis; }\
-:x: 'object-fit: contain;' preserve the aspect ratio of the image and makes sure no clipping happens to the whole image.\
-:heavy_check_mark: 'object-fit: cover;' avoids the image getting squeezed, but it could end up clipping the image.\
+:x: {text-overflow: ellipsis; white-space: wrap; visibility: hidden;}\
+:heavy_check_mark: {white-space: nowrap}\
 :x: 'object-fit: cover;' avoids clipping the image by sacrificing the aspect ratio.
