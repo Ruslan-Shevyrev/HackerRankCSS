@@ -23,8 +23,9 @@ div{
 :heavy_check_mark: 'object-fit: contain;' preserve the aspect ratio of the image and makes sure no clipping happens to the whole image.\
 :heavy_check_mark: 'object-fit: cover;' avoids the image getting squeezed, but it could end up clipping the image.\
 :x: 'object-fit: cover;' avoids clipping the image by sacrificing the aspect ratio.
+
 # :three: CSS object-fit
 
 ## If an element extends beyond the allocated width, how do you truncate the sentence with an ellipsis (...) using CSS?
 
-## If an element extends beyond the allocated width, how do you truncate the sentence with an ellipsis (...) using CSS?
+## For example, "Hello! I am an element, and my width is larger than the container..."
