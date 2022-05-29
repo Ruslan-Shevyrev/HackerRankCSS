@@ -15,7 +15,7 @@ div{
 :heavy_check_mark: .greyBall:hover {transform: scale(2); transition: 0.5s;}\
 :x: .greyBall:focus {transform: scale(2); transition: 0.5s;}
 
-<img src="../Answer_images/Answer_1.png" title="answer_1">
+<img src="/Answer_images/Answer_1.png" title="answer_1">
 
 # :two: CSS Ellipsis
 
