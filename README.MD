@@ -26,6 +26,8 @@ div{
 :heavy_check_mark: 'object-fit: cover;' avoids the image getting squeezed, but it could end up clipping the image.\
 :x: 'object-fit: cover;' avoids clipping the image by sacrificing the aspect ratio.
 
+<img src="/Answer_images/Answer_2.png" title="answer_2">
+
 # :three: CSS object-fit
 
 ## If an element extends beyond the allocated width, how do you truncate the sentence with an ellipsis (...) using CSS?
