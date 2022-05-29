@@ -32,5 +32,5 @@ div{
 
 :x: {white-space: pre-wrap; overflow: ellipsis; }\
 :x: {text-overflow: ellipsis; white-space: wrap; visibility: hidden;}\
-:heavy_check_mark: {white-space: nowrap}\
+:heavy_check_mark: {white-space: nowrap; overflow: hidden; text-overflow:ellipsis}\
 :x: 'object-fit: cover;' avoids clipping the image by sacrificing the aspect ratio.
