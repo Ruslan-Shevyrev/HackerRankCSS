@@ -39,13 +39,13 @@ div{
 :heavy_check_mark: {white-space: nowrap; overflow: hidden; text-overflow:ellipsis}\
 :x: None of the above
 
+<img src="/Answer_images/Answer_3.png" title="answer_3">
+
 # :four: CSS Text Coloring
 
 ## WHich of the following renders the text red?
 
 ## <p id="tagID">Please color me red</p>
-
-<img src="/Answer_images/Answer_3.png" title="answer_3">
 
 <table>
   <tr>
