@@ -45,7 +45,9 @@ div{
 
 ## WHich of the following renders the text red?
 
-## <p id="tagID">Please color me red</p>
+```
+<p id="tagID">Please color me red</p>
+```
 
 <img src="/Answer_images/Answer_4.png" title="answer_4">
 
