@@ -49,6 +49,11 @@ div{
 <p id="tagID">Please color me red</p>
 ```
 
+:x: :root{--test-color: red;} p{color:--test-color;}\
+:x: :root{--test-color: red;} p{color:var(--test-color);}\
+:heavy_check_mark: {white-space: nowrap; overflow: hidden; text-overflow:ellipsis}\
+:x: None of the above
+
 <img src="/Answer_images/Answer_4.png" title="answer_4">
 
 <table>
