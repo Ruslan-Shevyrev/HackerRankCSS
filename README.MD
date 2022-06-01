@@ -66,8 +66,8 @@ div{
 
 :x: p{cursor-event: none;}\
 :x: p{pointer-events: none;}\
-:heavy_check_mark: #tagId {color: red;}p{color:blue;}\
-:heavy_check_mark: p{colorLred !important;} #tagId{color:blue;}
+:heavy_check_mark: p{user-select: none;}\
+:x: None of the above
 
 <table>
   <tr>
