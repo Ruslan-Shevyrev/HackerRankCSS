@@ -56,6 +56,14 @@ div{
 
 <img src="/Answer_images/Answer_4.png" title="answer_4">
 
+# :five: CSS selection
+
+## How do you prevent the user from selecting the text rendered insidethe following element?
+
+```
+<p> should not be selectable</p>
+```
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
