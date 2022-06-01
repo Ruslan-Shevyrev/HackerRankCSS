@@ -10,6 +10,7 @@ div{
 </style>
 <div class="grayBall"></div>
 ```
+
 :x: .greyBall:hover {transform: scale(2); animate: 500ms;}\
 :heavy_check_mark: .greyBall:hover {transform: scale(2); transition: 500ms transform;}\
 :heavy_check_mark: .greyBall:hover {transform: scale(2); transition: 0.5s;}\
