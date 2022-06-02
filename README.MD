@@ -70,6 +70,8 @@ div{
 
 <img src="/Answer_images/Answer_5.png" title="answer_5">
 
+# :six: CSS input Placeholder
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
