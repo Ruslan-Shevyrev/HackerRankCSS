@@ -74,6 +74,11 @@ div{
 
 ## How do yiu hide the "placeholder" text of an <input> field?
 
+:x: input::placeholder{visibility:clip;}\
+:heavy_check_mark: input::placeholder{color: transparent;}\
+:x: p{display: none;}\
+:x: None of the above
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
