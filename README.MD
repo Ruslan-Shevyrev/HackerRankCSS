@@ -76,8 +76,8 @@ div{
 
 :x: input::placeholder{visibility:clip;}\
 :heavy_check_mark: input::placeholder{color: transparent;}\
-:x: p{display: none;}\
-:x: None of the above
+:x: input::placeholder{display: none;}\
+:x: input::placeholder{visibility:hidden};
 
 <table>
   <tr>
