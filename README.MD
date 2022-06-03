@@ -79,6 +79,8 @@ div{
 :x: input::placeholder{display: none;}\
 :x: input::placeholder{visibility:hidden};
 
+<img src="/Answer_images/Answer_6.png" title="answer_6">
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
