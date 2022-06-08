@@ -83,6 +83,8 @@ div{
 
 # :seven: CSS Centering
 
+## Which of the following options can position the div with the class name "child" exactly at the center of the page?
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
