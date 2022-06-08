@@ -85,6 +85,10 @@ div{
 
 ## Which of the following options can position the div with the class name "child" exactly at the center of the page?
 
+:x: .parent{display: flex; justify-content: center; align-items: center;}\
+:x: .parent{display: flex; justify-content: center; align-self: center;}\
+:x: .parent{position: relative;}.child{position: absolute; top: 50%; ;eft: 50%}\
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
