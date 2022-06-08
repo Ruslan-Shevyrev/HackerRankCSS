@@ -87,6 +87,7 @@ div{
 
 ```
 <div class="parent" style="width: 100vw; height: 100vh;">
+</div>
 ```
 
 :x: .parent{display: flex; justify-content: center; align-items: center;}\
