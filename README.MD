@@ -86,7 +86,7 @@ div{
 ## Which of the following options can position the div with the class name "child" exactly at the center of the page?
 
 ```
-<p id="tagID">Please color me red</p>
+<div class="parent" style="width: 100vw; height: 100vh;">
 ```
 
 :x: .parent{display: flex; justify-content: center; align-items: center;}\
