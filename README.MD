@@ -87,6 +87,7 @@ div{
 
 ```
 <div class="parent" style="width: 100vw; height: 100vh;">
+	<div class="child" style="height: 100px; width: 100px; background: black"></div>
 </div>
 ```
 
