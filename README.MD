@@ -87,7 +87,8 @@ div{
 
 :x: .parent{display: flex; justify-content: center; align-items: center;}\
 :x: .parent{display: flex; justify-content: center; align-self: center;}\
-:x: .parent{position: relative;}.child{position: absolute; top: 50%; ;eft: 50%}\
+:x: .parent{position: relative;}.child{position: absolute; top: 50%; ;left: 50%;}\
+:heavy_check_mark: .parent{position: relative;}.child{position: absolute; top: 50%; ;left: 50%; transform-translate(-50%, -50%);}\
 
 <table>
   <tr>
