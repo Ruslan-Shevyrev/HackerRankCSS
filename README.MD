@@ -96,6 +96,8 @@ div{
 :x: .parent{position: relative;}.child{position: absolute; top: 50%; ;left: 50%;}\
 :heavy_check_mark: .parent{position: relative;}.child{position: absolute; top: 50%; ;left: 50%; transform-translate(-50%, -50%);}\
 
+<img src="/Answer_images/Answer_7.png" title="answer_7">
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
