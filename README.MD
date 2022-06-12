@@ -98,6 +98,8 @@ div{
 
 <img src="/Answer_images/Answer_7.png" title="answer_7">
 
+# :eight: CSS Vertical-align
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
