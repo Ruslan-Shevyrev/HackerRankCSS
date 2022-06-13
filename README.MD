@@ -113,6 +113,7 @@ div{
 :x: .heroWord{vertical-align: 25px;} moves the word "Hack" to the bottom, 25px lower then ```<p>``` tag.\
 :x: .heroWord{vertical-align: 25px;} moves the word "Hack" to the top, 25px higher then ```<p>``` tag.\
 :heavy_check_mark: p img{vertical-align: text-bottom;} moves the image to the bottom with respect to the ```<p>``` tag.\
+:x: p img{vertical-align: text-bottom;} has no effect on the ```<img>``` tag.
 
 <table>
   <tr>
