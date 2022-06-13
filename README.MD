@@ -102,6 +102,14 @@ div{
 
 ## Which of the following are true about the CSS property 'vertical-align'?
 
+```
+<p>
+	Let's
+	<span class="heroWord">Hack</span>
+	<img src=""/>
+</p>
+```
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
