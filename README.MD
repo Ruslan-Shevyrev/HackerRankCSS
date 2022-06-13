@@ -110,6 +110,8 @@ div{
 </p>
 ```
 
+:x: .heroWord{vertical-align: 25px;} move the word "Hack" to the bottom, 25px lower then <p> tag.\
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
