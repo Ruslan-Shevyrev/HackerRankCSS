@@ -110,7 +110,7 @@ div{
 </p>
 ```
 
-:x: .heroWord{vertical-align: 25px;} move the word "Hack" to the bottom, 25px lower then <p> tag.\
+:x: .heroWord{vertical-align: 25px;} move the word "Hack" to the bottom, 25px lower then ```<p>``` tag.\
 
 <table>
   <tr>
