@@ -115,6 +115,8 @@ div{
 :heavy_check_mark: p img{vertical-align: text-bottom;} moves the image to the bottom with respect to the ```<p>``` tag.\
 :x: p img{vertical-align: text-bottom;} has no effect on the ```<img>``` tag.
 
+<img src="/Answer_images/Answer_8.png" title="answer_8">
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
