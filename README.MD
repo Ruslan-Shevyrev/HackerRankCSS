@@ -72,7 +72,7 @@ div{
 
 # :six: CSS input Placeholder
 
-## How do yiu hide the "placeholder" text of an <input> field?
+## How do you hide the "placeholder" text of an <input> field?
 
 :x: input::placeholder{visibility:clip;}\
 :heavy_check_mark: input::placeholder{color: transparent;}\
