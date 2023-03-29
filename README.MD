@@ -49,9 +49,9 @@ div{
 <p id="tagID">Please color me red</p>
 ```
 :x: :root{--test-color: red;} p{color:--test-color;}\
-:x: :root{--test-color: red;} p{color:var(--test-color);}\
-:heavy_check_mark: #tagId {color: red;}p{color:blue;}\
-:heavy_check_mark: p{colorLred !important;} #tagId{color:blue;}
+:heavy_check_mark: :root{--test-color: red;} p{color:var(--test-color);}\
+:x: #tagId {color: red;} p{color:blue;}\
+:heavy_check_mark: p{color: red !important;} #tagId{color:blue;}
 
 <img src="/Answer_images/Answer_4.png" title="answer_4">
 
@@ -77,7 +77,7 @@ div{
 :x: input::placeholder{visibility:clip;}\
 :heavy_check_mark: input::placeholder{color: transparent;}\
 :x: input::placeholder{display: none;}\
-:x: input::placeholder{visibility:hidden};
+:heavy_check_mark: input::placeholder{visibility:hidden};
 
 <img src="/Answer_images/Answer_6.png" title="answer_6">
 
