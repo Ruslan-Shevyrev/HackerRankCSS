@@ -17,7 +17,7 @@ div{
 
 <img src="/Answer_images/Answer_1.png" title="answer_1">
 
-# :two: CSS Ellipsis
+# :two: CSS object-fit
 
 ## Which of the following are true about CSS property 'object-fit'?
 
@@ -28,7 +28,7 @@ div{
 
 <img src="/Answer_images/Answer_2.png" title="answer_2">
 
-# :three: CSS object-fit
+# :three: CSS Ellipsis
 
 ## If an element extends beyond the allocated width, how do you truncate the sentence with an ellipsis (...) using CSS?
 
